@@ -10,7 +10,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 #INICIO
  
-$URL_SRV =  "https://lankhief1979.com/PISWD/TP1/Servidor.php";  //"http://localhost/TP1/Servidor.php";//"http://www.c.byethost7.com/index.php";
+$URL_SRV =  "https://github.com/hernanlanzillotta/piswd_tp1/blob/main/Servidor.php";  //"http://localhost/TP1/Servidor.php";//"http://www.c.byethost7.com/index.php";
   
 
  echo"<center><h1><u>CLIENTE DEL T.P. N° 1 <br> 'SEGURIDAD EN LOS SITIOS WEB'</u></h1><br><br><br><br><br>";
